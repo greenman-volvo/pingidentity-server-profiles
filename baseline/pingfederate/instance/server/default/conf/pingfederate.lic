@@ -1,0 +1,14 @@
+ID=00070183
+Product=PingFederate
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Version=10.1
+EnforcementType=3
+Tier=Subscription
+IssueDate=2020-05-12
+ExpirationDate=2021-06-10
+DeploymentMethod=Traditional
+Organization=Ping Identity Corporation
+SignCode=FF0F
+Signature=302E021500936865D87B186214E2A286CAB11A64F8317D7AA8021500865C2A392108B2F323D88B59DB0F4B1D951C584A
